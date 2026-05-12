@@ -1,5 +1,7 @@
 # 近三个月 GitHub 热门仓库汇总（2026.02 – 2026.05）
 
+> 📌 **个人化清单**：如果你是科研学生 / 论文写作场景，直接看 [`for-researchers.md`](./for-researchers.md)（精选 Skill + MCP + PDF/RAG 工具 + 一周工作流）。
+>
 > 整理日期：**2026-05-12**
 > 整理范围：最近 ~3 个月（2026 年 2 月 — 5 月）在 GitHub 上涨星显著、被多家科技博客 / 趋势聚合站（Trendshift、OSSInsight、GitHub Trending、BytebyteGo、Medium、shareuhack 等）反复提到的项目。
 > 用途：作为本仓库后续研究 / 选题 / 复刻 / 写作的"原始素材池"。
